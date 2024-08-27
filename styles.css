@@ -387,6 +387,7 @@
     background-size: cover;
     position: relative;
     color: #fff;
+    background-position: center;
 }
 
 .services__card:nth-child(2) {
